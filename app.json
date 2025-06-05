@@ -19,12 +19,12 @@
       "required": false,
       "value": "public"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {Michael 
       "description": "Put Owner Name Here",
       "required": true,
       "value": "PRINCE"
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {2349110217309
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
       "value": "237677224245"
